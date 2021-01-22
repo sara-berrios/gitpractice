@@ -1,4 +1,6 @@
 One
 two
+<<<<<<< HEAD
 ready?
 Go!
+>>>>>>> 79e79f08b203cf7032ae4c3f1ec81a25b9c0bd08
